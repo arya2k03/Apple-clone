@@ -194,7 +194,7 @@ header{
     }
 
     .cta-link:nth-child(2){
-        margin-left: 2rem;
+        margin-left: 2.6rem;
     }
 
     .tile-heading-watch{
@@ -203,10 +203,10 @@ header{
     }
 
     .title-price{
-        font-size: 1.5;
+        font-size: 1.5rem;
     }
 
-    .cta-link{
+    .cta{
         font-size: 2rem;
     }
 }
