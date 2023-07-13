@@ -167,7 +167,7 @@ header{
 /* end */
 
 
-@media screen and (max-width: 1081px){
+@media screen and (max-width: 1068px){
     .iphone-11-pro{
         background: url("images/hero/iphone-11-pro/iphone_11_pro_medium.jpg");
     }
@@ -190,24 +190,16 @@ header{
         font-size: 4.4rem;
     }
     .title-sub-heading{
-        font-size: 1.8rem;
+        font-size: 2.4rem;
     }
 
     .cta-link:nth-child(2){
-        margin-left: 2.6rem;
+        margin-left: 2rem;
     }
 
     .tile-heading-watch{
         height: 6.2rem;
         background: url("images/hero/watch/logo_watch_medium.png") center no-repeat;
-    }
-
-    .title-price{
-        font-size: 1.5rem;
-    }
-
-    .cta{
-        font-size: 2rem;
     }
 }
 
@@ -388,7 +380,7 @@ header{
     }
 
     .title{
-        padding: 3.7rem;
+        padding: 1rem;
     }
 
     .title-heading{
